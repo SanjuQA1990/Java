@@ -2,7 +2,7 @@ package EX_09_10_24;
 
 public class Lab007 {
     public static void main(String[] args) {
-        int item=5;
+        int item=5; // Declaration of variable
        // System.out.printf("%d %d %d",  item);
         System.out.printf("%d * %d = %d \n",item,1,item*1);
         System.out.printf("%d * %d = %d \n",item,2,item*2);
