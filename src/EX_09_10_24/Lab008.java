@@ -2,7 +2,7 @@ package EX_09_10_24;
 
 public class Lab008 {
     public static void main(String[] args) {
-        // Print the definition of a constant ina java
+        // Print the definition of a constant
         System.out.println("Definition of a Constant:");
         System.out.println("In Java, a constant is a variable whose value cannot be changed after it is assigned.");
         System.out.println("Constants are declared using the 'final' keyword.");
