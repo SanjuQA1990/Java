@@ -8,7 +8,7 @@ public class Lab005_variable {
         int a=100;
         long l1=9468326512l;
         float f1=2.8415f;
-        double d1=555.0665;
+        double d1=5550665;
         char c1='S';
         boolean b2=true;
 
