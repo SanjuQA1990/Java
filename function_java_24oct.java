@@ -1,3 +1,5 @@
+package EX_24_10_24;
+
 import java.util.Scanner;
 
 public class function_java_24oct {
