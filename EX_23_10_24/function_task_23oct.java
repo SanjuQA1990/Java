@@ -30,7 +30,7 @@ public class function_task_23oct {
         System.out.println("Division is "+ result3);
     }
 
-    // Sum function
+    // Sum function update the function code
     public static int sum(int a, int b) {
         return a + b;
     }
