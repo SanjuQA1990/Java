@@ -8,7 +8,7 @@ public class Lab008 {
         System.out.println("Constants are declared using the 'final' keyword.");
         System.out.println("By convention, constant names are written in uppercase letters, with words separated by underscores.");
         System.out.println();
-        // Example of defining a constant
+
         final int MAX_HEIGHT = 100;
         System.out.println("Example of a constant:");
         System.out.println("Constant Name: MAX_HEIGHT");
