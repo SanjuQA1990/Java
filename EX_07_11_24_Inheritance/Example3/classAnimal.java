@@ -1,4 +1,4 @@
-package EX_07_11_24.Example3;
+package EX_07_11_24_Inheritance.Example3;
 
 public class classAnimal {
     public void sound() {

@@ -1,4 +1,4 @@
-package EX_07_11_24.Example;
+package EX_07_11_24_Inheritance.Example;
 
 public class singleInheritance {
     public static void main(String[] args) {
